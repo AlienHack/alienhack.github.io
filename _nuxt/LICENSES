@@ -34,6 +34,12 @@ object-assign
  * Released under the MIT License.
  */
 
+/*!
+ * vuex v3.5.1
+ * (c) 2020 Evan You
+ * @license MIT
+ */
+
 /*! For license information please see sdk.js.LICENSE.txt */
 
 //! moment.js
